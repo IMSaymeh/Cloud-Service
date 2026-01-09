@@ -1,0 +1,6 @@
+pyspark
+firebase-admin
+kagglehub
+gradio
+pandas
+matplotlib
